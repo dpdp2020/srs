@@ -41,3 +41,10 @@ cmake-build-debug
 /trunk/ide/srs_clion/cmake_install.cmake
 /trunk/ide/srs_clion/srs
 /trunk/ide/srs_clion/Testing/
+/.vs
+/trunk/ide/srs_clion/.vs
+/trunk/ide/srs_clion/out/build/WSL-GCC-Debug
+/trunk/.vs
+/trunk/.vs
+/trunk/.vs
+/trunk/.vs
